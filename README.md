@@ -20,6 +20,7 @@ Após criado, digitar a seguinte query: create database projeto_pubfuture.<br>
 O próximo passo é ir até a aba "Administração" e no menu "Gerenciamento" selecionar Data Import/Restore<br>
 A seguir selecione a opção "Import from Self-Contained File" e no botão de reticensias selecione o arquivo projeto_pubfuture.sql que foi baixado junto com os outros arquivos deste repositório.<br>
 Em "Default Target Schema" selecione projeto_pubfuture e clique em Start Import, a segui uma imagem para auxiliar nesta parte:<br>
+<img src="https://github.com/MarcoAlarcon/programa_pub_future" alt = "MySQL Setup"/>
 ![MySQL setup](https://imgur.com/a/pizMWjv)<br>
 Na tela seguinte se você tiver uma senha cadastra, informe-a, se não tiver nenhuma senha, basta clicar em ok.<br>
 Agora abra os arquivos index.py, receitas.py, despesas.py e contas.py no IDE de sua preferência.<br>
