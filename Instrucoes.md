@@ -2,7 +2,7 @@
 
 Neste repositório se encontra meu código para o desafio do programa pubfuture promovido pela empresa Pública tecnologia.
 
-#Instruções
+#Instruções#
 
 A linguagem utilizada no script para esse teste foi a linguagem python, então antes de prosseguir com o restante das intruções, verifique se o python esa instalado na sua máquina.
 Se não tiver o python instalado na máquina, basta seguir este tutorial para instalar o python: https://www.youtube.com/watch?v=pDBnCDuL-dc
@@ -11,7 +11,7 @@ Após a instalação do python, abra ele e digite o comando: pip install-mysql-c
 O banco de dados relacional usado para integração com o script, foi o MySQL, se não tiver MySQL instalado em sua máquina, vamos precisar instalar também.
 Isso pode feito seguindo este tutorial: https://www.youtube.com/watch?v=fmerTu7dWk8
 
-##Após a instalação do Python e MySQL.
+##Após a instalação do Python e MySQL.##
 
 Baixe e extraia os arquivos deste repositório, fique atento para _deixar todos os arquivos na mesma pasta__.
 Feito isso abra seu MySQL Workbench.
