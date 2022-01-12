@@ -2,7 +2,7 @@
 
 Neste repositório se encontra meu código para o desafio do programa pubfuture promovido pela empresa Pública tecnologia.
 
-<h1>Instruções<h1>
+<h1>Instruções</h1>
 
 A linguagem utilizada no script para esse teste foi a linguagem python, então antes de prosseguir com o restante das intruções, verifique se o python esa instalado na sua máquina.
 Se não tiver o python instalado na máquina, basta seguir este tutorial para instalar o python: https://www.youtube.com/watch?v=pDBnCDuL-dc
