@@ -20,14 +20,16 @@ Após criado, digitar a seguinte query: create database projeto_pubfuture.<br>
 O próximo passo é ir até a aba "Administração" e no menu "Gerenciamento" selecionar Data Import/Restore<br>
 A seguir selecione a opção "Import from Self-Contained File" e no botão de reticensias selecione o arquivo projeto_pubfuture.sql que foi baixado junto com os outros arquivos deste repositório.<br>
 Em "Default Target Schema" selecione projeto_pubfuture e clique em Start Import, a segui uma imagem para auxiliar nesta parte:<br>
-<img src="https://github.com/MarcoAlarcon/programa_pub_future" alt = "MySQL Setup"/>
-![MySQL setup](https://imgur.com/a/pizMWjv)<br>
+
+![MySQL Setup](https://user-images.githubusercontent.com/85081442/149223862-fe9a3250-77bf-4860-bca9-05dc0bdb6e27.png)
+
 Na tela seguinte se você tiver uma senha cadastra, informe-a, se não tiver nenhuma senha, basta clicar em ok.<br>
 Agora abra os arquivos index.py, receitas.py, despesas.py e contas.py no IDE de sua preferência.<br>
 Nos arquivos receitas, despesas e contas, existe a classe conexao no começo de cada arquivo, para acessar o banco de dados é necessario informar as credênciais nos campos host, user e password de cada arquivo.<br>
-Os campos host e password já vem setados como localhost e vazio respectivamente nesta ordem, __apenas altere os campos se o seu host do MySQL for cadastrado com um nome diferente e se você tiver uma senha cadastrada para acessar suas conexões no MySQL__.<br>
+Os campos host e password já vem setados como localhost e vazio respectivamente nesta ordem, __apenas altere os campos se o seu host do MySQL for cadastrado com um nome diferente e se você tiver uma senha cadastrada para acessar suas conexões no MySQL__.<br><br>
 A seguir uma imagem para auxiliar na identificação desse metodo de classe:<br>
-![Conexao setup](https://imgur.com/a/tjXb7JQ)<br>
+
+![Conexao setup](https://user-images.githubusercontent.com/85081442/149224035-eec15baa-141e-4323-8995-0e8ffe309e41.png)
 
 Seguindo esses passos, basta executar o script do arquivo index.py para acessar o sistema financeiro proposto no desafio.<br>
 Nele você encontrara instruições de como realizar operações CRUD no banco de dados.<br>
