@@ -11,7 +11,7 @@ Após a instalação do python, abra ele e digite o comando: pip install-mysql-c
 O banco de dados relacional usado para integração com o script, foi o MySQL, se não tiver MySQL instalado em sua máquina, vamos precisar instalar também.
 Isso pode feito seguindo este tutorial: https://www.youtube.com/watch?v=fmerTu7dWk8
 
-##Após a instalação do Python e MySQL.<h2>
+<h2>Após a instalação do Python e MySQL.</h2>
 
 Baixe e extraia os arquivos deste repositório, fique atento para _deixar todos os arquivos na mesma pasta__.
 Feito isso abra seu MySQL Workbench.
