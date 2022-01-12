@@ -13,7 +13,7 @@ Isso pode feito seguindo este tutorial: https://www.youtube.com/watch?v=fmerTu7d
 
 <h2>Após a instalação do Python e MySQL.</h2>
 
-Baixe e extraia os arquivos deste repositório, fique atento para _deixar todos os arquivos na mesma pasta__.
+Baixe e extraia os arquivos deste repositório, fique atento para _deixar todos os arquivos na mesma pasta__.<br>
 Feito isso abra seu MySQL Workbench.
 Inicie uma nova conexão no botão "+" localizado ao lado de "MySQL Connections".
 Configure essa nova conexão normalmente, informando o nome da conexão e o usuário e se cadastrada, a senha, é importante manter em mente o usuário e a senha, se informada.
